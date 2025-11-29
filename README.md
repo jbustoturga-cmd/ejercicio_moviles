@@ -1,16 +1,18 @@
-# flutter_application_2
+# ejercicio para la clase
 
-A new Flutter project.
+README.md
+Ejercicio: Mostrar una imagen en Flutter
 
-## Getting Started
+Este proyecto contiene un ejercicio básico de Flutter donde el estudiante debe configurar y mostrar correctamente una imagen dentro del archivo home_page.dart.
 
-This project is a starting point for a Flutter application.
+Objetivo del ejercicio
 
-A few resources to get you started if this is your first Flutter project:
+El estudiante debe realizar las siguientes tareas:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Crear la carpeta assets en la raíz del proyecto.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Agregar dentro de esa carpeta una imagen de su preferencia.
+
+Configurar el archivo pubspec.yaml para que Flutter reconozca la carpeta assets.
+
+Mostrar la imagen dentro del archivo home_page.dart utilizando los widgets apropiados.
